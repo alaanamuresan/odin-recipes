@@ -1,0 +1,44 @@
+* {
+    background-color:rgb(237, 225, 199);
+    }
+
+h1,
+img,
+.menu {
+    border: 5px solid rgb(196, 92, 81);
+    }
+
+h1, 
+.menu {
+    font-family: serif;
+    background-color: rgb(252, 219, 157);
+    width: 500px;
+    padding: 10px;
+    margin: 10px auto;
+    }
+
+h1,
+h2,
+p {
+    text-align: center;
+    }
+
+li {
+    width: 500px;
+    margin: 10px auto;
+    }
+
+img {
+    display: block;
+    width: auto;
+    margin: 0 auto;
+    }
+
+.menu {
+    padding: 50px;
+    }
+
+.menu li,
+span {
+    background-color: rgb(252, 219, 157);
+    }
